@@ -1,4 +1,4 @@
-<<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Heroku</summary>
 <p>
 <br>
 <a href="https://github.com/ATHIF-EFX/TESSA-AutoFilterBeta-V3">
